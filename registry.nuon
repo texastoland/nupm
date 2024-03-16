@@ -295,8 +295,8 @@
         [
             std-rfc,
             "0.1.0",
-            "https://github.com/texastoland/nu_scripts",
-            "65aa7cc",
+            "https://github.com/nushell/nu_scripts",
+            "cf88c11",
             stdlib-candidate
         ],
         [
