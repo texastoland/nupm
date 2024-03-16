@@ -34,6 +34,13 @@
             path
         ];
         [
+            bru,
+            "0.1.0",
+            "https://github.com/selfagency/bru",
+            "c157120",
+            .
+        ],
+        [
             nu_plugin_audio_hook,
             "0.1.12",
             "https://github.com/FMotalleb/nu_plugin_audio_hook",
